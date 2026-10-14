@@ -96,7 +96,7 @@ def nur_text(seiten_html):
 def sende_push(betreff, text, dringend):
     thema = os.environ.get("NTFY_TOPIC")
     if not thema:
-        return
+        return False
     push = urllib.request.Request(
         f"https://ntfy.sh/{thema}",
         data=text.encode("utf-8"),
@@ -105,6 +105,7 @@ def sende_push(betreff, text, dringend):
                  "Tags": "soccer"},
     )
     urllib.request.urlopen(push, timeout=30)
+    return True
 
 
 def sende_mail(betreff, text, dringend):
@@ -128,8 +129,8 @@ def sende_mail(betreff, text, dringend):
 def melde(betreff, text, dringend=True):
     """Push und Mail unabhängig voneinander: fällt eins aus, kommt das andere trotzdem."""
     try:
-        sende_push(betreff, text, dringend)
-        log(f"Push verschickt: {betreff}")
+        if sende_push(betreff, text, dringend):
+            log(f"Push verschickt: {betreff}")
     except Exception as fehler:
         log(f"Push fehlgeschlagen: {fehler}")
     try:
