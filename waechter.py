@@ -291,6 +291,15 @@ def main():
     zustand.setdefault("fehler", {})
     erster_lauf = not zustand["gesehen"]
 
+    probealarm = "--probealarm" in sys.argv
+    if probealarm:
+        # Absichtlich ein paar bekannte Dinge "vergessen", damit der echte Ablauf Alarm schlägt
+        for name, zeilen in zustand.get("seiten", {}).items():
+            zustand["seiten"][name] = zeilen[:1] + zeilen[2:]
+        zustand["gesehen"] = [g for g in zustand["gesehen"]
+                              if not (g.startswith("https://www.nfsbih.ba") and SCHWEDEN.search(g))]
+        log("Probealarm: bekannte Einträge vergessen, prüfe die echten Seiten...")
+
     funde = []
     pruefungen = [
         ("nfsbih.ba", pruefe_nfsbih),
@@ -314,7 +323,7 @@ def main():
                       f"{name} klappt seit {anzahl} Prüfungen nicht.\nLetzter Fehler: {fehler}", dringend=False)
 
     if funde:
-        melde("TICKETS Schweden - Bosnien: Neue Info!",
+        melde(("PROBEALARM - " if probealarm else "") + "TICKETS Schweden - Bosnien: Neue Info!",
               "\n\n---\n\n".join(funde) + "\n\nSchnell reinschauen, Tickets sind oft in Minuten weg!")
     elif erster_lauf:
         log(f"Erster Lauf: {len(zustand['gesehen'])} vorhandene Einträge gemerkt.")
