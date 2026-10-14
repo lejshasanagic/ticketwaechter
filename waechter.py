@@ -286,7 +286,7 @@ def main():
         melde("Ticketwächter: Test", "Wenn du das liest, funktioniert die Benachrichtigung.", dringend=False)
         return
 
-    zustand = json.loads(ZUSTAND_DATEI.read_text()) if ZUSTAND_DATEI.exists() else {}
+    zustand = json.loads(ZUSTAND_DATEI.read_text(encoding="utf-8")) if ZUSTAND_DATEI.exists() else {}
     zustand.setdefault("gesehen", [])
     zustand.setdefault("fehler", {})
     erster_lauf = not zustand["gesehen"]
@@ -338,7 +338,7 @@ def main():
         zustand["lebenszeichen"] = heute
 
     zustand["gesehen"].sort()
-    ZUSTAND_DATEI.write_text(json.dumps(zustand, indent=2, ensure_ascii=False))
+    ZUSTAND_DATEI.write_text(json.dumps(zustand, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 if __name__ == "__main__":
