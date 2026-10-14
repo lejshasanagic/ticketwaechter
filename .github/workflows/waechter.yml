@@ -23,6 +23,7 @@ jobs:
         env:
           MAIL_USER: ${{ secrets.MAIL_USER }}
           MAIL_APP_PASSWORD: ${{ secrets.MAIL_APP_PASSWORD }}
+          MAIL_LOGIN: ${{ secrets.MAIL_LOGIN }}
           SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}

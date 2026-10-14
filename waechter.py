@@ -122,7 +122,8 @@ def sende_mail(betreff, text, dringend):
     mail.set_content(text)
     with smtplib.SMTP(os.environ.get("SMTP_SERVER") or "smtp.mail.me.com", 587, timeout=30) as smtp:
         smtp.starttls()
-        smtp.login(absender, os.environ["MAIL_APP_PASSWORD"])
+        # iCloud: manche Konten melden sich mit der Apple-ID an (MAIL_LOGIN), senden aber von @icloud.com
+        smtp.login(os.environ.get("MAIL_LOGIN") or absender, os.environ["MAIL_APP_PASSWORD"])
         smtp.send_message(mail)
 
 
