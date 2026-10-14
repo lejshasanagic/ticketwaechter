@@ -21,8 +21,9 @@ jobs:
       - name: Seiten pruefen
         run: python3 waechter.py
         env:
-          GMAIL_USER: ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_APP_PASSWORD: ${{ secrets.MAIL_APP_PASSWORD }}
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           BHFF_USER: ${{ secrets.BHFF_USER }}

@@ -1,6 +1,6 @@
 """Ticketwächter für Schweden - Bosnien (Nations League, 14.11.2026, Solna).
 
-Läuft alle paar Minuten auf GitHub Actions und meldet per Gmail (und optional
+Läuft alle paar Minuten auf GitHub Actions und meldet per Mail über iCloud (und optional
 per Push über ntfy), sobald es Neuigkeiten zu Tickets für den BiH-Block gibt.
 
 Überwacht:
@@ -94,17 +94,20 @@ def nur_text(seiten_html):
 # ---------- Benachrichtigung ----------
 
 def melde(betreff, text, dringend=True):
-    gmail = os.environ["GMAIL_USER"]
+    """Mail von deinem eigenen Postfach an dich selbst (landet so nicht im Spam).
+    Standard ist iCloud; mit SMTP_SERVER=smtp.gmail.com geht auch Gmail."""
+    absender = os.environ["MAIL_USER"]
     mail = EmailMessage()
-    mail["From"] = gmail
-    mail["To"] = os.environ.get("MAIL_TO") or gmail
+    mail["From"] = absender
+    mail["To"] = os.environ.get("MAIL_TO") or absender
     mail["Subject"] = betreff
     if dringend:
         mail["X-Priority"] = "1"
         mail["Importance"] = "high"
     mail.set_content(text)
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
-        smtp.login(gmail, os.environ["GMAIL_APP_PASSWORD"])
+    with smtplib.SMTP(os.environ.get("SMTP_SERVER") or "smtp.mail.me.com", 587, timeout=30) as smtp:
+        smtp.starttls()
+        smtp.login(absender, os.environ["MAIL_APP_PASSWORD"])
         smtp.send_message(mail)
 
     thema = os.environ.get("NTFY_TOPIC")
