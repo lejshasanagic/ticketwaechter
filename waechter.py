@@ -93,7 +93,21 @@ def nur_text(seiten_html):
 
 # ---------- Benachrichtigung ----------
 
-def melde(betreff, text, dringend=True):
+def sende_push(betreff, text, dringend):
+    thema = os.environ.get("NTFY_TOPIC")
+    if not thema:
+        return
+    push = urllib.request.Request(
+        f"https://ntfy.sh/{thema}",
+        data=text.encode("utf-8"),
+        headers={"Title": betreff.encode("utf-8"),
+                 "Priority": "urgent" if dringend else "default",
+                 "Tags": "soccer"},
+    )
+    urllib.request.urlopen(push, timeout=30)
+
+
+def sende_mail(betreff, text, dringend):
     """Mail von deinem eigenen Postfach an dich selbst (landet so nicht im Spam).
     Standard ist iCloud; mit SMTP_SERVER=smtp.gmail.com geht auch Gmail."""
     absender = os.environ["MAIL_USER"]
@@ -110,17 +124,23 @@ def melde(betreff, text, dringend=True):
         smtp.login(absender, os.environ["MAIL_APP_PASSWORD"])
         smtp.send_message(mail)
 
-    thema = os.environ.get("NTFY_TOPIC")
-    if thema:
-        push = urllib.request.Request(
-            f"https://ntfy.sh/{thema}",
-            data=text.encode("utf-8"),
-            headers={"Title": betreff.encode("utf-8"),
-                     "Priority": "urgent" if dringend else "low",
-                     "Tags": "soccer"},
-        )
-        urllib.request.urlopen(push, timeout=30)
-    log(f"Benachrichtigung verschickt: {betreff}")
+
+def melde(betreff, text, dringend=True):
+    """Push und Mail unabhängig voneinander: fällt eins aus, kommt das andere trotzdem."""
+    try:
+        sende_push(betreff, text, dringend)
+        log(f"Push verschickt: {betreff}")
+    except Exception as fehler:
+        log(f"Push fehlgeschlagen: {fehler}")
+    try:
+        sende_mail(betreff, text, dringend)
+        log(f"Mail verschickt: {betreff}")
+    except Exception as fehler:
+        log(f"Mail fehlgeschlagen: {fehler}")
+        try:
+            sende_push("Ticketwächter: Mail klappt nicht", f"Fehler beim Mailversand: {fehler}", False)
+        except Exception:
+            pass
 
 
 # ---------- nfsbih.ba ----------
