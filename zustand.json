@@ -150,6 +150,7 @@
     "/sport/fudbal/koliko-ulaznica-su-dobili-navijaci-zelje-kako-je-sarajevo-kaznilo-manijake/266548",
     "/sport/fudbal/krupne-rijeci-na-racun-ermina-mahmica-igra-zato-sto-je-miljenik-predsjednika/266146",
     "/sport/fudbal/legendarni-napadac-iz-srbije-hvali-alajbegovica-moze-napraviti-razliku/266311",
+    "/sport/fudbal/legendarni-sergio-busquets-priprema-zvijer-od-igraca-za-bosnu-i-hercegovinu/266626",
     "/sport/fudbal/legende-premiershipa-odusevljene-zmajem-klasa-stvarno-ali-stvarno-je-dobar/266212",
     "/sport/fudbal/leotar-se-sprema-za-povratak-u-plbih-na-policama-radno-uskoro-novi-travnjak/266258",
     "/sport/fudbal/lesinari-divljali-u-centru-atine-zavrsili-su-iza-resetaka/266315",
@@ -173,6 +174,7 @@
     "/sport/fudbal/novi-gol-harisa-tabakovica-salko-hamzic-zakljucao-mrezu/266561",
     "/sport/fudbal/novi-okrsaj-dudica-i-lalatovica/266341",
     "/sport/fudbal/novi-sok-za-esmira-bajraktarevica/266504",
+    "/sport/fudbal/odreden-raspored-11-kola-plbih-vjeciti-derbi-u-posebnom-terminu-poznato-ko-ga-prenosi/266623",
     "/sport/fudbal/osvajac-kupa-bih-ide-u-evropsku-ligu-vise-novca-u-kasi-ali-i-vise-evropskih-utakmica/266607",
     "/sport/fudbal/ovdje-se-igra-mec-lige-prvaka-peljti-demirovicu-gigovicu-nece-biti-dobro-kada-izadu-na-teren/266230",
     "/sport/fudbal/peter-bosz-se-kockao-hoce-li-ga-skupo-kostati-ignorisanje-esmira-bajraktarevica/266516",
@@ -631,6 +633,7 @@
     "https://meridiansport.ba/fudbal/evropska-takmicenja/borac-panatinaikos-postave/",
     "https://meridiansport.ba/fudbal/evropska-takmicenja/borac-porazen-od-panatinaikosa/",
     "https://meridiansport.ba/fudbal/evropska-takmicenja/fk-borac-panatinaikos-atina-liga-konf/",
+    "https://meridiansport.ba/fudbal/evropska-takmicenja/golman-helsinskija-opisao-kups/",
     "https://meridiansport.ba/fudbal/evropska-takmicenja/lesinari-gostovanje-atina-panatinaikos/",
     "https://meridiansport.ba/fudbal/evropska-takmicenja/liga-evrope-kerim-alajbegovic-juventus/",
     "https://meridiansport.ba/fudbal/evropska-takmicenja/milos-jojic-kilavo-usli-u-mec/",
@@ -847,6 +850,7 @@
     "https://meridiansport.ba/najnovije/niko-kao-sloga-meridian-najbolji-start/",
     "https://meridiansport.ba/najnovije/radnik-pojacanje-nasao-u-katanji/",
     "https://meridiansport.ba/najnovije/robert-prosinecki-blizu-novog-angazmana/",
+    "https://meridiansport.ba/najnovije/sarajevo-i-zeljeznicar-terenu-u-subotu/",
     "https://meridiansport.ba/najnovije/zeljeznicar-djeca-minutaza-muslera/",
     "https://meridiansport.ba/olimpijske-igre/intervjui-olimpijske-igre/",
     "https://meridiansport.ba/olimpijske-igre/najava-olimpijske-igre/",
@@ -1123,7 +1127,7 @@
     "sport.ba": 0,
     "faktor.ba": 0,
     "reprezentacija.ba": 0,
-    "meridiansport.ba": 1
+    "meridiansport.ba": 0
   },
   "bhff_pruefwert": "4ff060c4a4df32b51d905e7dcd04c6d3fda99162f02d139e4c9c715545562868",
   "seiten": {
