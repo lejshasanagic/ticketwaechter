@@ -352,6 +352,7 @@
     "/sport/nogomet/messi-briljirao-protiv-atlante-dva-gola-i-asistencija-u-novoj-pobjedi-inter-miamija/261018008",
     "/sport/nogomet/milan-pregazio-salzburg-u-austriji-tabakovic-kao-kapiten-predvodio-svoj-sastav/261015345",
     "/sport/nogomet/milan-slavio-u-velikoj-drami-protiv-atalante-kolasinac-se-povrijedio-vec-u-20-minuti/261018171",
+    "/sport/nogomet/moj-brat-muharemovic-imao-posebnu-podrsku-s-tribina-elland-roada-protiv-manchester-uniteda/261019115",
     "/sport/nogomet/moram-se-dobro-kontrolisati-martinez-zestoko-opleo-po-upravi-kluba-nakon-poraza-od-atletica/261014029",
     "/sport/nogomet/mourinho-iskreno-da-sam-vinicius-otisao-bih-iz-reala/261017129",
     "/sport/nogomet/mourinho-zbunio-novinara-pred-romu-a-barcelonu-provocirao-pricom-o-aferi-calciopoli/261014214",
@@ -438,6 +439,7 @@
     "/sport/nogomet/real-madrid-pomno-prati-situaciju-oko-haalanda-hoce-li-perez-stvoriti-napad-iz-snova/261014052",
     "/sport/nogomet/ronaldova-sestra-uzburkala-javnost-vjerovatno-je-zavrsio-s-portugalom-svi-osjecamo-tugu/261015116",
     "/sport/nogomet/rozman-pred-gostovanje-u-zenici-imamo-odgovor-na-celikovu-agresivnost/261016160",
+    "/sport/nogomet/rus-dozivio-jeziv-prijelom-noge-na-terenu-reprezentativac-bih-mu-prvi-pritekao-u-pomoc/261019100",
     "/sport/nogomet/sahtar-utakmicama-lige-prvaka-u-londonu-zeli-skrenuti-paznju-na-rat-u-ukrajini/261014150",
     "/sport/nogomet/saigraci-podrzali-martineza-nakon-sto-je-ostro-kritikovao-transfer-politiku-uniteda/261014224",
     "/sport/nogomet/sarajevo-jedva-izbjeglo-poraz-od-radnika-barisic-u-finisu-susreta-donio-bod-bordo-timu/261017174",
@@ -455,6 +457,7 @@
     "/sport/nogomet/sportski-direktor-schalkea-o-novom-ugovoru-za-muslica-trenutno-nema-nikakve-potrebe-za-produzenjem/261018154",
     "/sport/nogomet/sta-ceka-hajduk-nakon-nevidene-bakljade-torcide-dva-su-moguca-scenarija/261015372",
     "/sport/nogomet/sta-znamo-o-povredi-kolasinca-problem-s-misicem-povrijedio-se-sam-tokom-trcanja-kontre/261019020",
+    "/sport/nogomet/stimac-uz-uhapsene-vode-torcide-najradije-bih-zadavio-ovog-u-crnoj-majici-no-danas-sam-mu-podrska/261019042",
     "/sport/nogomet/sutra-rociste-za-11-navijaca-borca-privedenih-uoci-utakmice-u-atini/261016320",
     "/sport/nogomet/tabakovic-nije-imao-zastavicu-koju-bi-predao-kapitenu-milana-izvini-nemam-nikakvu/261015333",
     "/sport/nogomet/tadic-izazvao-skandal-u-nizozemskoj-njegove-rijeci-nisu-naisle-na-odobravanje-navijaca-nec-a/261017024",
@@ -507,6 +510,7 @@
     "https://meridiansport.ba/bh-sport/bosna-partizan-ulaznice-prodaja-zetra/",
     "https://meridiansport.ba/bh-sport/bosna-porazena-od-ulm-evrokup/",
     "https://meridiansport.ba/bh-sport/celik-imao-najvecu-posjetu-u-10-kolu/",
+    "https://meridiansport.ba/bh-sport/celik-najveci-problem-pred-11-kolo/",
     "https://meridiansport.ba/bh-sport/celik-sarajevo-sporne-situacije-valjic/",
     "https://meridiansport.ba/bh-sport/damir-dzumhur-savladao-georgi-kravcenko/",
     "https://meridiansport.ba/bh-sport/dario-derda-detektovao-razloge-poraza-od-ulma-ovo-nije-realan-rezultat-ali-u-redu/",
@@ -737,6 +741,7 @@
     "https://meridiansport.ba/fudbal/premijer-liga-bih/sloga-meridian-bez-golova-protiv-sirokog/",
     "https://meridiansport.ba/fudbal/premijer-liga-bih/sloga-meridian-siroki-brijeg-sastavi/",
     "https://meridiansport.ba/fudbal/premijer-liga-bih/spaleti-razocaran-nakon-poluvremena/",
+    "https://meridiansport.ba/fudbal/premijer-liga-bih/sramotna-posjeta-za-bh-fudbal/",
     "https://meridiansport.ba/fudbal/premijer-liga-bih/ultrasi-zrinjski-celik-zenica-pl-bih/",
     "https://meridiansport.ba/fudbal/premijer-liga-bih/vandali-bugojno-zastava-celik/",
     "https://meridiansport.ba/fudbal/premijer-liga-bih/zeljeznicar-gostuje-bsku/",
@@ -1118,7 +1123,7 @@
     "sport.ba": 0,
     "faktor.ba": 0,
     "reprezentacija.ba": 0,
-    "meridiansport.ba": 0
+    "meridiansport.ba": 1
   },
   "bhff_pruefwert": "4ff060c4a4df32b51d905e7dcd04c6d3fda99162f02d139e4c9c715545562868",
   "seiten": {
