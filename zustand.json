@@ -118,6 +118,7 @@
     "/clanak/361118/fk-sarajevo-otkrio-koliko-je-ulaznica-prodato-za-gradski-derbi-sa-zeljeznicarom",
     "/clanak/361119/bivsi-ljubimac-navijaca-sarajeva-heroj-velikog-trijumfa-gol-u-93-minuti-priblizio-ga-tituli",
     "/clanak/361120/nestvaran-preokret-najveci-udar-na-viniciusa-u-karijeri-saigraci-su-mu-zabili-noz-u-leda",
+    "/clanak/361121/salko-hamzic-otkrio-sta-mu-je-edin-dzeko-rekao-na-oprostaju-to-mi-je-stvarno-otvorilo-srce",
     "/sport/fudbal/alajbegovic-razocarao-italijane-spallettiju-je-i-dalje-enigma/266602",
     "/sport/fudbal/alajbegovic-u-idealnom-timu-kola/266117",
     "/sport/fudbal/amar-memic-postigao-novi-gol-za-viktoriju-plzen/266576",
@@ -228,6 +229,7 @@
     "/sport/fudbal/skandal-nezadovoljni-otac-nokautirao-bivseg-fudblera-zeljeznicara/266522",
     "/sport/fudbal/skandalozne-poruke-torcide-gazi-zidove-auschwitz-auschwitz-ustaj-adolfe-ajmo-ajmo-ustase/266359",
     "/sport/fudbal/spalletti-priprema-revoluciju-alajbegovic-zrtveno-janje/266683",
+    "/sport/fudbal/spektakl-u-parizu-bajraktarevicu-se-smijesi-noc-za-pamcenje-demirovic-protiv-atletica/266686",
     "/sport/fudbal/splitska-policija-privela-18-navijaca-ajaxa-pronadeno-hladno-oruzje/266176",
     "/sport/fudbal/sta-se-desava-na-relaciji-sanin-mirvic-unis-nije-dosao-u-vogoscu-zabrinutost-raste/266463",
     "/sport/fudbal/steven-gerrard-surov-prema-manchester-cityju-neka-pate/266142",
@@ -280,6 +282,7 @@
     "/sport/nogomet/bayern-ozbiljno-razmislja-o-daniju-olmu-spanac-je-nezadovoljan-minutazom/261013183",
     "/sport/nogomet/bazdar-asistirao-u-pobjedi-st-truidena-kolasinac-bolji-od-sunjica/261015392",
     "/sport/nogomet/bellingham-dogovorio-novi-ugovor-s-real-madridom-do-2031-godine/261016212",
+    "/sport/nogomet/bild-analizira-tesku-situaciju-u-schalkeu-dzekino-vrijeme-u-prvoj-postavi-je-proslo/261020027",
     "/sport/nogomet/bivsi-reprezentativac-engleske-34-koji-je-kostao-milione-javno-trazi-posao-ne-mogu-dobiti-ni-razgovor/261019184",
     "/sport/nogomet/bizarna-situacija-uoci-flickove-press-konferencije-trener-barce-ostao-zakljucan-zaposlenici-trazili-kljuc/261014174",
     "/sport/nogomet/borac-casnim-porazom-od-panathinaikosa-u-atini-zapoceo-ligasku-fazu-konferencijske-lige/261015350",
@@ -668,6 +671,7 @@
     "https://meridiansport.ba/featured/nedo-turkovic-trenera-srbija-u-indiju/",
     "https://meridiansport.ba/featured/poznat-raspored-crvene-zvezde-u-ligi-sampiona-i-kada-dolazi-u-barselonu/",
     "https://meridiansport.ba/featured/srbija-turska-kvalifikacije-za-sp/",
+    "https://meridiansport.ba/featured/tiket-dana-20-10-2026-liga-sampiona/",
     "https://meridiansport.ba/featured/tiket-dana-miks-lige-evrope-i-lige-konferencija/",
     "https://meridiansport.ba/featured/tip-dana-panatinaikos-borac/",
     "https://meridiansport.ba/featured/video-psz-drzao-cas-fudbala-sitiju/",
@@ -753,6 +757,7 @@
     "https://meridiansport.ba/fudbal/haris-tabakovic-salzburg-austrija-4/",
     "https://meridiansport.ba/fudbal/igman-sloboda-jedinstvo-prva-liga-fbih/",
     "https://meridiansport.ba/fudbal/jakov-pranjic-gorica-hnl-hrvatska/",
+    "https://meridiansport.ba/fudbal/kerim-alajbegovic-juventus-liga-evrope-3/",
     "https://meridiansport.ba/fudbal/kerim-alajbegovic-juventus-serija-a-8/",
     "https://meridiansport.ba/fudbal/kerim-alajbegovic-juventus-serija-a-9/",
     "https://meridiansport.ba/fudbal/kerim-alajbegovic-juventus-serija-lacio/",
@@ -929,6 +934,7 @@
     "https://meridiansport.ba/kosarka/mundobasket-2023/",
     "https://meridiansport.ba/kosarka/nacionalnelige/ksavijer-kastanjeda-dobra-forma/",
     "https://meridiansport.ba/kosarka/nba/bogdan-bogdanovic-o-povratku-u-evropu/",
+    "https://meridiansport.ba/kosarka/nba/krece-nba-liga-prvi-mec-igra-garzin-boston/",
     "https://meridiansport.ba/kosarka/nba/luka-garza-dobar-mec-boston/",
     "https://meridiansport.ba/kosarka/reprezentativna-takmicenja-kosarka/",
     "https://meridiansport.ba/kosarka/reprezentativna-takmicenja-kosarka/kosarkasi-bih-se-vracaju-u-sarajevo/",
@@ -1211,6 +1217,7 @@
     "https://reprezentacija.ba/537337-demirovic-najavio-mec-protiv-atletica-stadion-ce-gorjeti-sam-sebi-sam-najveci-kriticar",
     "https://reprezentacija.ba/537348-sarajevo-dobilo-jos-jedan-novi-teren",
     "https://reprezentacija.ba/537357-hamzic-otkrio-sta-mu-je-dzeko-rekao-prije-i-poslije-debija-to-necu-nikada-zaboraviti",
+    "https://reprezentacija.ba/537366-dzumhur-nakon-osvajanja-titule-u-italiji-naporno-sam-radio-da-dodjem-do-ovog-nivoa",
     "https://www.nfsbih.ba/vijesti/futsal/dres-reprezentacije-bih-urucen-porodici-nihada-kukana/",
     "https://www.nfsbih.ba/vijesti/futsal/futsal-reprezentativke-bih-neuspjesne-protiv-svedske-za-kraj-kvalifikacija/",
     "https://www.nfsbih.ba/vijesti/futsal/futsal-zmajevi-ubjedljivi-protiv-sjeverne-irske/",
@@ -1415,5 +1422,5 @@
       "20 oktober 10.00 släpps biljetterna till den avgörande play off-finalen till VM 2027. Matchen spelas 5 december 16.00 på 3Arena i Stockholm."
     ]
   },
-  "lebenszeichen": "2026-10-19"
+  "lebenszeichen": "2026-10-20"
 }
