@@ -706,6 +706,7 @@
     "/sport/nogomet/u-vijecnici-obiljezeno-80-godina-postojanja-fk-sarajevo-okupile-se-brojne-legende-bordo-kluba/261021335",
     "/sport/nogomet/uefa-kaznila-ns-bih-nakon-utakmice-protiv-poljske-prijeti-nam-i-djelimicno-zatvaranje-stadiona/261014162",
     "/sport/nogomet/uefa-poslala-fifa-i-42-pitanja-o-infantinovom-mandatu-odgovore-trazi-do-2-novembra/261020105",
+    "/sport/nogomet/uefa-zatvorila-poljud-za-duel-sa-sint-truidenom-hajduk-placa-i-96000-eura-kazne/261021364",
     "/sport/nogomet/uhapsen-stipe-lekic-koji-je-predvodio-sramotni-korteo-u-splitu-torcida-optuzuje-medije-za-hajku/261018121",
     "/sport/nogomet/ultrasi-udaljeni-s-bilinog-polja-pet-minuta-prije-kraja-utakmice-celika-i-zrinjskog/261018193",
     "/sport/nogomet/utakmica-como-manchester-united-pod-znakom-pitanja-zbog-obilne-kise-uefa-bi-mogla-odgoditi-susret/261021259",
@@ -1574,7 +1575,7 @@
   "fehler": {
     "nfsbih.ba": 0,
     "event.ba": 0,
-    "bhff.fans": 0,
+    "bhff.fans": 1,
     "Strawberry Arena": 0,
     "SvFF Biljetter": 0,
     "klix.ba": 0,
