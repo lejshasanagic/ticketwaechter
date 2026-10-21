@@ -150,10 +150,12 @@
     "/clanak/361157/tuga-u-italiji-preminula-talentovana-kosarkasica-imala-je-samo-17-godina",
     "/clanak/361158/nurkic-poslao-snaznu-poruku-pred-njim-je-novo-poglavlje-u-nba-karijeri",
     "/clanak/361159/bajraktarevic-odgovorio-na-terenu-bosz-sada-ima-razlog-da-preispita-svoje-odluke",
+    "/clanak/361160/infantino-se-nasao-pred-velikim-izazovom-hoce-li-biti-prekinut-niz-koji-traje-vise-od-pola-stoljeca",
     "/sport/fudbal/alajbegovic-razocarao-italijane-spallettiju-je-i-dalje-enigma/266602",
     "/sport/fudbal/alajbegovic-u-idealnom-timu-kola/266117",
     "/sport/fudbal/amar-memic-postigao-novi-gol-za-viktoriju-plzen/266576",
     "/sport/fudbal/arifagic-pogodio-protiv-bayerna/266165",
+    "/sport/fudbal/bajraktarevic-partijom-u-portu-odusevio-nizozemce/266787",
     "/sport/fudbal/barcelona-iznenadila-odabirom-dresova-sve-je-kriva-uefa/266773",
     "/sport/fudbal/bh-klub-trazi-igrace-na-internetu-nudi-placu-od-750-eura/266216",
     "/sport/fudbal/bivsi-fudbaler-bologne-catanie-cluja-novo-ime-u-radniku/266228",
@@ -335,6 +337,7 @@
     "/sport/nogomet/bajraktarevic-na-tribinama-stadiona-u-leipzigu-vidio-zastavu-bih-pogledajte-njegovu-reakciju/261014202",
     "/sport/nogomet/bajraktarevic-vodi-psv-ka-pobjedi-u-portu-najzasluzniji-je-za-vodeci-gol-elektricara/261020283",
     "/sport/nogomet/barcelona-igra-strahovito-a-vraca-im-se-najbolji-raphinha-odradio-kompletan-trening-i-spreman-je/261015226",
+    "/sport/nogomet/bayern-i-arsenal-u-derbiju-veceri-lige-prvaka-real-madrid-docekuje-leipzig/261021046",
     "/sport/nogomet/bayern-ozbiljno-razmislja-o-daniju-olmu-spanac-je-nezadovoljan-minutazom/261013183",
     "/sport/nogomet/bazdar-asistirao-u-pobjedi-st-truidena-kolasinac-bolji-od-sunjica/261015392",
     "/sport/nogomet/bellingham-dogovorio-novi-ugovor-s-real-madridom-do-2031-godine/261016212",
@@ -1035,6 +1038,7 @@
     "https://meridiansport.ba/kladionica/lige-petice-u-meridianu/",
     "https://meridiansport.ba/kladionica/psz-barselona-liga-sampiona/",
     "https://meridiansport.ba/kladionica/tiket-dana-kladi-se-na-golov/",
+    "https://meridiansport.ba/kladionica/tiket-dana-kladionica-meridian-liga-s/",
     "https://meridiansport.ba/kladionica/tiket-dana-meridian-kladionica-14/",
     "https://meridiansport.ba/kladionica/tiket-dana/tiket-dana-domaca-prvenstva/",
     "https://meridiansport.ba/kladionica/tiket-dana/tiket-dana-sedmica-pocetak/",
@@ -1082,6 +1086,7 @@
     "https://meridiansport.ba/kosarka/liga-bih/mladost-gradina-kosarka-liga-bih/",
     "https://meridiansport.ba/kosarka/liga-bih/sloboda-kosarka-pokloni-ismet-sejfic/",
     "https://meridiansport.ba/kosarka/liga-bih/sloboda-slavila-protiv-igmana/",
+    "https://meridiansport.ba/kosarka/luka-garza-i-seltiksi-nba-boston/",
     "https://meridiansport.ba/kosarka/mundobasket-2023/",
     "https://meridiansport.ba/kosarka/nacionalnelige/ksavijer-kastanjeda-dobra-forma/",
     "https://meridiansport.ba/kosarka/nba/bogdan-bogdanovic-o-povratku-u-evropu/",
@@ -1404,6 +1409,7 @@
     "https://reprezentacija.ba/537454-bajraktarevic-pogodio-stativu-pa-uradio-veliki-dio-posla-kod-gola-psv-a",
     "https://reprezentacija.ba/537462-na-devet-utakmica-postignuto-40-golova-psg-u-derbiju-savladao-barcelonu",
     "https://reprezentacija.ba/537462-na-devet-utakmica-postigutno-40-golova-psg-u-derbiju-savladao-barceonu",
+    "https://reprezentacija.ba/537479-nurkic-pred-13-nba-sezonu-poslao-poruku-uz-pjesmu-dine-merlina",
     "https://www.nfsbih.ba/vijesti/futsal/dres-reprezentacije-bih-urucen-porodici-nihada-kukana/",
     "https://www.nfsbih.ba/vijesti/futsal/futsal-reprezentativke-bih-neuspjesne-protiv-svedske-za-kraj-kvalifikacija/",
     "https://www.nfsbih.ba/vijesti/futsal/futsal-zmajevi-ubjedljivi-protiv-sjeverne-irske/",
@@ -1611,5 +1617,5 @@
       "20 oktober 10.00 släpps biljetterna till den avgörande play off-finalen till VM 2027. Matchen spelas 5 december 16.00 på 3Arena i Stockholm."
     ]
   },
-  "lebenszeichen": "2026-10-20"
+  "lebenszeichen": "2026-10-21"
 }
