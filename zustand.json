@@ -1162,6 +1162,7 @@
     "https://meridiansport.ba/kladionica/tip-dana-roma-real-madrid/",
     "https://meridiansport.ba/kladionica/tip-dana/tip-dana-ajntraht-keln/",
     "https://meridiansport.ba/kladionica/tip-dana/tip-dana-betis-barselona/",
+    "https://meridiansport.ba/kladionica/tip-dana/tip-dana-borac-kups/",
     "https://meridiansport.ba/kladionica/tip-dana/tip-dana-komo-mancester-junajted/",
     "https://meridiansport.ba/kladionica/tip-dana/tip-dana-totenhem-koventri/",
     "https://meridiansport.ba/kosarka/abaliga/bosna-objavila-video-o-edinu-avdicu/",
@@ -1551,6 +1552,7 @@
     "https://reprezentacija.ba/537505-dzumhur-nakon-velike-borbe-izborio-drugo-kolo-atp-turnira-u-briselu",
     "https://reprezentacija.ba/537514-katic-otkrio-da-je-igrao-za-150-eura-mjesecno-pa-kazao-gdje-vidi-dzeku-nakon-zavrsetka-karijere-to-bi-bila-savrsena-uloga-za-njega",
     "https://reprezentacija.ba/537518-alajbegovic-sa-juventusom-protiv-rennesa-tabakovic-gostuje-u-sloveniji",
+    "https://reprezentacija.ba/537520-bazdar-i-st-truiden-igraju-u-danskoj-hadzikadunic-sa-hajdukom-protiv-prvaka-svicarske",
     "https://reprezentacija.ba/537523-sarajevski-derbi-ce-suditi-arbitar-koji-je-po-struci-policajac",
     "https://reprezentacija.ba/537528-kvalif-za-sp-futsal-bih-izgubila-u-poljskoj",
     "https://reprezentacija.ba/537532-spalletti-najavio-da-ce-juve-protiv-rennesa-igrati-sa-dva-klasicna-napadaca-osjecam-da-ekipa-stoji-iza-mene",
@@ -1588,9 +1590,9 @@
     "https://www.nfsbih.ba/vijesti/saopstenja-za-javnost/saopstenje-sa-sjednice-komiteta-za-hitnost-ns-fs-bih/"
   ],
   "fehler": {
-    "nfsbih.ba": 1,
+    "nfsbih.ba": 0,
     "event.ba": 0,
-    "bhff.fans": 1,
+    "bhff.fans": 0,
     "Strawberry Arena": 0,
     "SvFF Biljetter": 0,
     "klix.ba": 0,
