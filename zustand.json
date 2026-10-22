@@ -173,6 +173,8 @@
     "/clanak/361193/italijani-otkrili-spallettijev-plan-sta-ceka-alajbegovica-u-narednoj-utakmici",
     "/clanak/361195/argentina-donijela-vaznu-odluku-skaloni-ostaje-na-klupi-gaucosa-jos-godinama",
     "/clanak/361196/muslic-se-suocio-s-novim-problemom-a-onda-je-stigla-vijest-koja-vraca-osmijeh-dzeko-je-spreman",
+    "/clanak/361197/sve-je-blize-odlasku-iz-reala-engleski-velikan-zeli-iskoristiti-nezadovoljstvo-alexandera-arnolda",
+    "/clanak/361198/arteta-zabrinut-zbog-sake-prve-rijeci-trenera-arsenala-ne-ulijevaju-optimizam",
     "/sport/fudbal/alajbegovic-i-drustvu-u-problemu-juventus-sprema-novog-trenera/266861",
     "/sport/fudbal/alajbegovic-razocarao-italijane-spallettiju-je-i-dalje-enigma/266602",
     "/sport/fudbal/alajbegovic-u-idealnom-timu-kola/266117",
@@ -191,6 +193,7 @@
     "/sport/fudbal/borac-trazi-cudo-u-grckoj-okrsaj-zmajeva-u-italiji/266279",
     "/sport/fudbal/borcu-protiv-finaca-sude-islandani/266725",
     "/sport/fudbal/bosna-u-neizvjesnoj-zavrsnici-do-velike-pobjede/266869",
+    "/sport/fudbal/brat-kerima-alajbegovica-dobio-poziv-u-reprezentaciju-njemacke/266924",
     "/sport/fudbal/brojni-prekrsaji-uefa-zestoko-kaznila-fudbalski-savez-bih/266233",
     "/sport/fudbal/bruka-manchester-uniteda-kod-coma-galata-nadigrala-lille/266866",
     "/sport/fudbal/bsk-i-zeljeznicar-u-neobicnom-terminu/266123",
@@ -800,6 +803,7 @@
     "https://meridiansport.ba/bh-sport/derbi-10-kola-posusje-travnik-termin/",
     "https://meridiansport.ba/bh-sport/edin-dzeko-robin-gosens-odgovor-salke/",
     "https://meridiansport.ba/bh-sport/edin-susa-bratstvo-oduzimanje-bodova/",
+    "https://meridiansport.ba/bh-sport/edo-vehabovic-vito-medic-hrvace/",
     "https://meridiansport.ba/bh-sport/emir-spahic-snimao-fudbalera/",
     "https://meridiansport.ba/bh-sport/emir-sulejmanovic-huventud-barselona/",
     "https://meridiansport.ba/bh-sport/ermedin-demirovic-ceka-oranica/",
@@ -1612,6 +1616,7 @@
     "https://reprezentacija.ba/537655-borac-veceras-docekuje-kups-marinovic-zeli-sva-tri-boda",
     "https://reprezentacija.ba/537657-engleski-mediji-bajraktarevic-privukao-paznju-manchester-uniteda",
     "https://reprezentacija.ba/537660-eldin-cengic-napustio-dugopolje-nakon-devet-kola",
+    "https://reprezentacija.ba/537669-emre-alajbegovic-dobio-poziv-u-u-15-reprezentaciju-njemacke",
     "https://www.nfsbih.ba/vijesti/futsal/dres-reprezentacije-bih-urucen-porodici-nihada-kukana/",
     "https://www.nfsbih.ba/vijesti/futsal/futsal-reprezentacija-bih-porazena-u-poljskoj/",
     "https://www.nfsbih.ba/vijesti/futsal/futsal-reprezentativke-bih-neuspjesne-protiv-svedske-za-kraj-kvalifikacija/",
@@ -1648,7 +1653,7 @@
     "sport.ba": 0,
     "faktor.ba": 0,
     "reprezentacija.ba": 0,
-    "meridiansport.ba": 1
+    "meridiansport.ba": 0
   },
   "bhff_pruefwert": "4ff060c4a4df32b51d905e7dcd04c6d3fda99162f02d139e4c9c715545562868",
   "seiten": {
