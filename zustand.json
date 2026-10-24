@@ -194,6 +194,8 @@
     "/clanak/361238/demirovic-ponovo-trese-mreze-bh-napadacu-samo-pet-minuta-trebalo-za-gol",
     "/clanak/361240/messi-primio-priznanje-koje-nadilazi-fudbal-emotivna-prica-o-ocu-dirnula-mnoge",
     "/clanak/361243/demirovic-zablistao-s-dva-gola-ali-stuttgart-pao-zmaj-nije-mogao-sam",
+    "/clanak/361244/navijaci-juventusa-zabrinuti-zbog-alajbegovica-spalletti-bi-mogao-ugusiti-njegov-najveci-kvalitet",
+    "/clanak/361245/demirovic-poslao-jasnu-poruku-nakon-poraza-ono-sto-se-desava-u-stuttgartu-ne-smije-se-ponavljati",
     "/sport/fudbal/adzem-i-bivsi-kapiten-sarajeva-krenuli-u-zajednicku-trenersku-avanturu/267051",
     "/sport/fudbal/alajbegovic-i-drustvu-u-problemu-juventus-sprema-novog-trenera/266861",
     "/sport/fudbal/alajbegovic-razocarao-italijane-spallettiju-je-i-dalje-enigma/266602",
@@ -815,6 +817,7 @@
     "/sport/nogomet/sahtar-utakmicama-lige-prvaka-u-londonu-zeli-skrenuti-paznju-na-rat-u-ukrajini/261014150",
     "/sport/nogomet/saigraci-podrzali-martineza-nakon-sto-je-ostro-kritikovao-transfer-politiku-uniteda/261014224",
     "/sport/nogomet/salzburg-ispustio-dva-gola-prednosti-u-sloveniji-memicev-plzen-porazen-od-levskog/261022305",
+    "/sport/nogomet/sarajevo-i-zeljeznicar-veceras-igraju-161-gradski-derbi-bordo-tim-slavi-80-rodendan/261024026",
     "/sport/nogomet/sarajevo-jedva-izbjeglo-poraz-od-radnika-barisic-u-finisu-susreta-donio-bod-bordo-timu/261017174",
     "/sport/nogomet/scene-iz-splita-zgrozile-evropu-hajduk-se-oglasio-ne-zelimo-da-nas-ovako-pamte/261016014",
     "/sport/nogomet/schalke-odlucio-dzeki-katicu-i-drustvu-ide-bogati-bonus-za-opstanak-u-bundesligi/261014155",
@@ -976,6 +979,7 @@
     "https://meridiansport.ba/bh-sport/kup-bih-6-utakmica-na-malim-ekranima/",
     "https://meridiansport.ba/bh-sport/lesinari-panatinaikos-hapsenje-neredi/",
     "https://meridiansport.ba/bh-sport/lesinari-tuca-atina-policija-borac-pao/",
+    "https://meridiansport.ba/bh-sport/luka-garza-boston-pobjeda-njujork/",
     "https://meridiansport.ba/bh-sport/luka-garza-sjajna-partija-protiv-sarlot/",
     "https://meridiansport.ba/bh-sport/manijaci-derbi-sarajevo-zeljeznicar/",
     "https://meridiansport.ba/bh-sport/marijo-tot-i-siroki-serija-2-mjeseca/",
@@ -1057,6 +1061,7 @@
     "https://meridiansport.ba/featured/tiket-dana-20-10-2026-liga-sampiona/",
     "https://meridiansport.ba/featured/tiket-dana-miks-lige-evrope-i-lige-konferencija/",
     "https://meridiansport.ba/featured/tip-dana-panatinaikos-borac/",
+    "https://meridiansport.ba/featured/tip-dana-sarajevo-zeljeznicar-2/",
     "https://meridiansport.ba/featured/video-psz-drzao-cas-fudbala-sitiju/",
     "https://meridiansport.ba/featured/zeljeznicar-zrinjski-premijer-liga-bih-2/",
     "https://meridiansport.ba/featured/zrinjski-zeljeznicar-premijer-liga-bih-2/",
@@ -1400,6 +1405,7 @@
     "https://meridiansport.ba/kladionica/tiket-dana-kladi-se-na-golov/",
     "https://meridiansport.ba/kladionica/tiket-dana-kladionica-meridian-liga-s/",
     "https://meridiansport.ba/kladionica/tiket-dana-meridian-kladionica-14/",
+    "https://meridiansport.ba/kladionica/tiket-dana-subotu-provedite-uz-premijer-ligu-bih/",
     "https://meridiansport.ba/kladionica/tiket-dana/tiket-dana-dobra-sansa-5/",
     "https://meridiansport.ba/kladionica/tiket-dana/tiket-dana-domaca-prvenstva/",
     "https://meridiansport.ba/kladionica/tiket-dana/tiket-dana-liga-konferencija-4/",
@@ -1494,6 +1500,7 @@
     "https://meridiansport.ba/najnovije/radnik-pojacanje-nasao-u-katanji/",
     "https://meridiansport.ba/najnovije/robert-prosinecki-blizu-novog-angazmana/",
     "https://meridiansport.ba/najnovije/sarajevo-i-zeljeznicar-terenu-u-subotu/",
+    "https://meridiansport.ba/najnovije/sarajevo-zeljeznicar-uzivo-najava/",
     "https://meridiansport.ba/najnovije/zeljeznicar-djeca-minutaza-muslera/",
     "https://meridiansport.ba/najnovije/zeljeznicar-horhe-guzman-raskid-ugovora/",
     "https://meridiansport.ba/olimpijske-igre/intervjui-olimpijske-igre/",
@@ -1875,6 +1882,7 @@
     "https://reprezentacija.ba/537857-tahirovic-najavio-derbi-u-belgiji-dolaze-na-nas-teren-i-nista-im-necemo-pokloniti-svi-znaju-da-mogu-racunati-na-mene-kada-sam-na-terenu",
     "https://reprezentacija.ba/537863-kvalif-za-euro-selektor-u17-zenske-bih-objavio-spisak-pozvane-fudbalerke-iz-njemacke-svedske",
     "https://reprezentacija.ba/537877-prediktor-sarajevo-zeljeznicar-golovi-oba-daju-2",
+    "https://reprezentacija.ba/537882-raspored-nastupa-nasi-danas-igraju-u-njemackoj-austriji-3",
     "https://reprezentacija.ba/537892-barbarezova-knjiga-medju-najprodavanijim-na-amazonu-dostava-pocinje-28-oktobra",
     "https://reprezentacija.ba/537895-betole-lansirao-promociju-kazino-sedmica-7-dana-7-nagrada-i-stotine-besplatnih-spinova-4",
     "https://reprezentacija.ba/537900-tarik-upozorio-navijace-lazno-se-predstavljaju-u-moje-ime",
@@ -1882,6 +1890,7 @@
     "https://reprezentacija.ba/537913-demirovic-pogodio-iz-voleja-za-prednost-stuttgarta",
     "https://reprezentacija.ba/537919-zrinjski-minimalno-savladao-radnik",
     "https://reprezentacija.ba/537935-gazibegovic-treci-susret-u-nizu-starter-u-poljskoj",
+    "https://reprezentacija.ba/537939-fk-sarajevo-danas-slavi-80-rodjendan-proslava-veceras-na-kosevu-u-sarajevskom-derbiju",
     "https://reprezentacija.ba/537945-lukic-zabio-tri-gola-pa-kroz-osmijeh-porucio-u-jednom-trenutku-sam-pomislio-da-igramo-protiv-barcelone",
     "https://www.nfsbih.ba/vijesti/futsal/dres-reprezentacije-bih-urucen-porodici-nihada-kukana/",
     "https://www.nfsbih.ba/vijesti/futsal/futsal-reprezentacija-bih-porazena-u-poljskoj/",
@@ -2097,5 +2106,5 @@
       "Se den avgörande play off-finalen till VM 2027. Matchen spelas 5 december 16.00 på 3Arena i Stockholm."
     ]
   },
-  "lebenszeichen": "2026-10-23"
+  "lebenszeichen": "2026-10-24"
 }
