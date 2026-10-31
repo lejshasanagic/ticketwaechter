@@ -282,6 +282,7 @@
     "/clanak/361426/najveci-rival-barcelone-imao-priliku-dovesti-messija-bivsi-trener-otkrio-sta-se-dogodilo",
     "/clanak/361427/kane-pobijedio-mbappea-za-samo-28-bodova-objavljeni-svi-detalji-glasanja-za-zlatnu-loptu",
     "/clanak/361428/nakon-rima-pao-i-bec-bosna-nastavila-sjajnu-seriju-i-upisala-novu-pobjedu",
+    "/clanak/361429/schalke-je-u-velikoj-krizi-a-muslic-otkrio-sta-se-hitno-mora-promijeniti",
     "/sport/fudbal/3000-navijaca-schalkea-napravilo-neocekivan-potez-muslic-im-odgovorio/267530",
     "/sport/fudbal/adzem-i-bivsi-kapiten-sarajeva-krenuli-u-zajednicku-trenersku-avanturu/267051",
     "/sport/fudbal/afrikanci-odustali-od-lige-nacija-kontinentalni-turnir-svako-dvije-godine/267644",
@@ -449,6 +450,7 @@
     "/sport/fudbal/legende-premiershipa-odusevljene-zmajem-klasa-stvarno-ali-stvarno-je-dobar/266212",
     "/sport/fudbal/leotar-se-sprema-za-povratak-u-plbih-na-policama-radno-uskoro-novi-travnjak/266258",
     "/sport/fudbal/lesinari-divljali-u-centru-atine-zavrsili-su-iza-resetaka/266315",
+    "/sport/fudbal/lider-na-grbavici-prvak-na-bilinom-polju-subota-donosi-dva-velika-derbija/267694",
     "/sport/fudbal/liverpool-brojao-do-sest-u-austriji-feyenoord-srusio-italijane/266269",
     "/sport/fudbal/ljubimac-navijaca-bih-igrao-za-150-eura-mjesecno-to-mi-je-bilo-nevjerovatno-puno-novca/266829",
     "/sport/fudbal/ljubitelja-fudbala-koriste-svaku-priliku-da-gledaju-prvaka-bih-u-cazinu/267455",
@@ -676,6 +678,7 @@
     "/sport/fudbal/veliko-priznanje-za-kerima-alajbegovica-oglasio-se-i-juventus-od-sarajeva-do-torina/266474",
     "/sport/fudbal/viking-i-bayern-odigrali-ljepoticu-kola-barcelona-prezivjela-grotlo-istanbula-tresoldi-srusio-inter/266185",
     "/sport/fudbal/zao-mi-je-dzeke-muslic-i-on-moraju-se-pogledati-u-oci-prijeti-rusenje-njegovog-spomenika/266695",
+    "/sport/fudbal/zasto-deket-ne-moze-odmah-u-evropu-fifa-ina-pravila-mijenjaju-planove-za-transfer/267701",
     "/sport/fudbal/zbog-navodnog-rasistickog-vrijedanja-igraca-swanseaja-prekinuta-utakmica-protiv-millwalla-na-sedam-minuta/266263",
     "/sport/fudbal/zbog-zdravstvenih-problema-sedam-igraca-borca-odgoden-derbi-protiv-veleza/266449",
     "/sport/fudbal/zekic-i-muslera-odredili-pocetne-postave/267108",
@@ -1041,6 +1044,7 @@
     "/sport/nogomet/martinez-ima-trajnu-posljedicu-ne-moze-saviti-prstenjak-do-kraja-zivota-zbog-dogadaja-prije-sp-a/261030270",
     "/sport/nogomet/mathieu-osvojio-ligu-prvaka-pa-upao-u-depresiju-cetiri-godine-nisam-radio-nista-sve-mi-je-bilo-crno/261028323",
     "/sport/nogomet/matthaus-iskreno-o-woltemadeu-ko-ce-sada-platiti-60-miliona-eura/261019251",
+    "/sport/nogomet/mbappe-ostao-bez-zlatne-lopte-za-28-bodova-hrvatski-novinar-kanea-gurnuo-na-sesto-mjesto/261031006",
     "/sport/nogomet/mbappe-osvojio-onze-dor-sedmicu-prije-dodjele-zlatne-lopte/261019168",
     "/sport/nogomet/mbappe-s-dva-gola-predvodio-real-do-pobjede-nad-sevillom-mourinho-mirniji-pred-el-clasico/261018201",
     "/sport/nogomet/mbappe-uputio-izvinjenje-kini-nije-mi-bila-namjera-nikoga-uvrijediti/261027174",
@@ -1600,6 +1604,7 @@
     "https://meridiansport.ba/bh-sport/zeljeznicar-dobio-dostojnog-rivala/",
     "https://meridiansport.ba/bh-sport/zeljeznicar-gostuje-bsk-manijaci-poruka/",
     "https://meridiansport.ba/bh-sport/zeljeznicar-sarajevo-kazne-derbi-nfsbih/",
+    "https://meridiansport.ba/bh-sport/zeljeznicar-zrinjski-i-celik-borac-12/",
     "https://meridiansport.ba/bh-sport/zinedin-smajlovic-zakovan-za-klupu/",
     "https://meridiansport.ba/bh-sport/zlatko-tripic-odbio-bih-izludio-bajern/",
     "https://meridiansport.ba/bh-sport/zoran-kuntic-ne-krije-ambicije/",
@@ -2133,6 +2138,7 @@
     "https://meridiansport.ba/kladionica/liga-sampiona-poklon-tiket-meridian/",
     "https://meridiansport.ba/kladionica/lige-petice-u-meridianu/",
     "https://meridiansport.ba/kladionica/psz-barselona-liga-sampiona/",
+    "https://meridiansport.ba/kladionica/tiket-dana-dodji-do-slavlja/",
     "https://meridiansport.ba/kladionica/tiket-dana-kladi-se-na-golov/",
     "https://meridiansport.ba/kladionica/tiket-dana-kladionica-meridian-liga-s/",
     "https://meridiansport.ba/kladionica/tiket-dana-kup-bih-i-srijeda-kombinacija-za-dobitak/",
@@ -2146,6 +2152,7 @@
     "https://meridiansport.ba/kladionica/tiket-dana/tiket-dana-serija-a/",
     "https://meridiansport.ba/kladionica/tiket-dana/tiket-dana-uz-velikane-do-dobitka/",
     "https://meridiansport.ba/kladionica/tiket-dana/tiket-dana-uzdamo-se-u-golove-3/",
+    "https://meridiansport.ba/kladionica/tip-dana-bornmut-lids-junajted/",
     "https://meridiansport.ba/kladionica/tip-dana-lids-mancester-pl-engl/",
     "https://meridiansport.ba/kladionica/tip-dana-proleter-dvorovi-celik/",
     "https://meridiansport.ba/kladionica/tip-dana-psz-barselona/",
@@ -2880,8 +2887,10 @@
     "https://reprezentacija.ba/538894-rumuni-uhvatili-lukica-u-nesvakidasnjoj-ulozi-s-istom-lakocom-nosi-i-svoju-ekipu-na-ledjima",
     "https://reprezentacija.ba/538897-ajdin-hasic-zabio-prelijep-gol-u-poljskoj",
     "https://reprezentacija.ba/538899-klub-iz-pl-bih-dobio-zabranu-registracije-novih-igraca-u-naredna-tri-transfer-roka",
+    "https://reprezentacija.ba/538908-raspored-nastupa-nasi-danas-igraju-u-engleskoj-njemackoj-nizozemskoj",
     "https://reprezentacija.ba/538911-prediktor-bournemouth-leeds-united-golovi-oba-daju-korneri-kartoni",
     "https://reprezentacija.ba/538931-aba-liga-bosna-ostvarila-vaznu-pobjedu-u-becu",
+    "https://reprezentacija.ba/538947-zeljeznicar-na-grbavici-docekuje-zrinjski-u-zenici-duel-celika-i-borca",
     "https://www.nfsbih.ba/vijesti/futsal/bubamara-nakon-dva-kola-ima-tri-boda-u-glavnoj-rundi-uefa-lige-prvaka/",
     "https://www.nfsbih.ba/vijesti/futsal/bubamara-ubjedljiva-protiv-ujpesta/",
     "https://www.nfsbih.ba/vijesti/futsal/dres-reprezentacije-bih-urucen-porodici-nihada-kukana/",
@@ -3114,5 +3123,5 @@
       "Se den avgörande play off-finalen till VM 2027. Matchen spelas 5 december 16.00 på 3Arena i Stockholm."
     ]
   },
-  "lebenszeichen": "2026-10-30"
+  "lebenszeichen": "2026-10-31"
 }
