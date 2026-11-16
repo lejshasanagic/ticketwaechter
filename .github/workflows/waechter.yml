@@ -1,8 +1,7 @@
 name: Ticketwaechter
 
 on:
-  schedule:
-    - cron: "3-59/5 * * * *"  # alle 5 Minuten, versetzt zur vollen Stunde (dann ist GitHub überlastet)
+  # schedule entfernt am 16.11.2026: Waechter abgeschaltet (Spiel vorbei)
   workflow_dispatch:       # Knopf "Run workflow" zum manuellen Testen
     inputs:
       test:
